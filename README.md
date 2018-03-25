@@ -1,0 +1,2 @@
+# MyPythonStudy
+for studying python
